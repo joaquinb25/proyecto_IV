@@ -5,13 +5,13 @@
 
 Lo primero será generar una nueva clave SSH, para ello vamos a usar ha hacer lo siguiente:
 
-ssh-keygen -t rsa -C "joaquinballesteros@correo.ugr.es"
+*ssh-keygen -t rsa -C "joaquinballesteros@correo.ugr.es"*
 
 Copiamos lo que nos imprime por pantalla y eso lo pegamos en la configuración de SSH que se encuentra en nuestro perfil de Github. 
 
 
-imagen1
 
+![SSH](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/ssh0.png)
 
 **2. Creación correcta del nombre y correo electrónico**
 
