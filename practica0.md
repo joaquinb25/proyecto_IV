@@ -5,7 +5,7 @@
 
 Lo primero será generar una nueva clave SSH :
 
-*ssh-keygen -t rsa -C "joaquinballesteros@correo.ugr.es"*
+*ssh-keygen -t rsa -C "joaquin_25_95@hotmail.com"*
 
 
 ![SSH](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/ssh1.png)
@@ -30,7 +30,6 @@ git config --global user.email"joaquinballesteros @correo.ugr.es" para el correo
 
 ![SSH](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/correonombre.png)
 
-
 **Creacion de hitos e issues**
 
 -Crearemos nuestro primer hito el cual será la entrega de la práctica 0
@@ -42,6 +41,33 @@ git config --global user.email"joaquinballesteros @correo.ugr.es" para el correo
 
 
 
-Clonamos el repositiorio
+**Clonamos el repositiorio
+
+*git clone https://github.com/joaquinb25/proyecto_IV/*
+
+Actualizamos nuestro archivo README.md y cerramos el issue creado para dicha tarea.
+
+Creamos una rama:
+
+git cheackout -b hito0
+git push origin hito0
+
+Y nos ponemos en ella para subir la practica 0:
+
+git branch
+
+
+
+**Añadimos a 0.md el enlace a practica 0 y repositorio
+
+
+![hito0](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/actualizado.png)
+
+
+**Añado objetivos   
+
+![hito0](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/commit1.png)
+![hito0](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/commit2.png)
+
 
 
