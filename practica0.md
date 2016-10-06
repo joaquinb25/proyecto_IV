@@ -30,7 +30,7 @@ git config --global user.email"joaquinballesteros @correo.ugr.es" para el correo
 
 ![SSH](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/correonombre.png)
 
-**Creacion de hitos e issues**
+**3.Creacion de hitos e issues**
 
 -Crearemos nuestro primer hito el cual será la entrega de la práctica 0
 
@@ -41,7 +41,7 @@ git config --global user.email"joaquinballesteros @correo.ugr.es" para el correo
 
 
 
-**Clonamos el repositiorio
+**4.Clonamos el repositiorio
 
 *git clone https://github.com/joaquinb25/proyecto_IV/*
 
@@ -58,13 +58,13 @@ git branch
 
 
 
-**Añadimos a 0.md el enlace a practica 0 y repositorio**
+**5.Añadimos a 0.md el enlace a practica 0 y repositorio**
 
 
 ![hito0](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/actualizado.png)
 
 
-**Añado objetivos**
+**6.Añado objetivos**
 
 ![hito0](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/commit1.png)
 ![hito0](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/commit2.png)
