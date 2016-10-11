@@ -3,7 +3,7 @@
 
 ##**Joaquín Ballesteros Ortega**
 
-EL proyectose trata de un bot de telegram que muestra la informacion de la pelicula deseada.
+EL proyecto se trata de un bot de telegram que muestra la informacion de la pelicula deseada.
 
 **Objetivo**
 
