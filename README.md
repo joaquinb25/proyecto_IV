@@ -1,7 +1,7 @@
 
-**##Asignatura Infraestructura Virtual**
+##**Asignatura Infraestructura Virtual**
 
-**##Joaquín Ballesteros Ortega**
+**Joaquín Ballesteros Ortega**
 
 EL proyectose trata de un bot de telegram que muestra la informacion de la pelicula deseada.
 
