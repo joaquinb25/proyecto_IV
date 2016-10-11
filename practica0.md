@@ -41,7 +41,7 @@ git config --global user.email"joaquinballesteros @correo.ugr.es" para el correo
 
 
 
-**4.Clonamos el repositiorio
+**4.Clonamos el repositiorio**
 
 *git clone https://github.com/joaquinb25/proyecto_IV/*
 
