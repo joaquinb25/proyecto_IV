@@ -37,14 +37,14 @@ similares (tamaño de disco duro equivalente a transferencia de disco duro)
 
 Servidor dedicado: 
 
-![im2](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/xl8%foto.png)
+![im2](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/xl8%20foto.png)
 
 
 
 Servidor cloud:
 
 
-![im3](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/cloud%img.png)
+![im3](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/cloud%20img.png)
 
 
 Cloud Next 8 con las siguientes características:
