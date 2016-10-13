@@ -107,6 +107,6 @@ root@joaquinballesteros:/home/joaquinballesteros# kvm-ok INFO: /dev/kvm exists K
 
 Por tanto puedo usar la aceleración por hardware del procesador.
 
-2
+1.2
 
 Tengo instalado virtualbox y vagrant.
