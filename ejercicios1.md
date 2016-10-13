@@ -5,7 +5,7 @@ Consultar en el catálogo de alguna tienda de informática el precio de un orden
 
 Voy a realizar los calculos sobre: 
 
-imagen
+![im1](https://github.com/joaquinb25/proyecto_IV/blob/hito1/imagenes1/1.png)
 
 http://www.macnificos.com/comprar-qnap-tvs-871t-i7-16g-thunderbolt-2-mac-pc/sistemas-nas-disco-almacenamiento?gclid=Cj0KEQjwvve_BRDmg9Kt9ufO15EBEiQAKoc6qncgxuf0BIakMbv6i2Q5LOmh3VTGKflxwoOoF9uw5nQaAtBS8P8HAQ
 
@@ -34,7 +34,8 @@ similares (tamaño de disco duro equivalente a transferencia de disco duro)
 
 Servidor dedicado: 
 
-img 
+![im2](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/xl8 foto.png)
+
 
 AMD Opteron™ 4274 HE, 
 8 Cores x 2.6 GHz(3.5 GHz Turbo Core), 
@@ -44,7 +45,8 @@ AMD Opteron™ 4274 HE,
 Servidor cloud:
 
 
-img
+![im3](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/cloud img.png)
+
 
 Cloud Next 8 con las siguientes características:
 
