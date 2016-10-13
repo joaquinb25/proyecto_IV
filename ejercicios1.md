@@ -44,7 +44,7 @@ Servidor dedicado:
 Servidor cloud:
 
 
-![im3](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/cloud%20img.png)
+![im3](https://github.com/joaquinb25/proyecto_IV/blob/hito1/imagenes1/cloud%20img.png)
 
 
 Cloud Next 8 con las siguientes características:
