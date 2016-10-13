@@ -47,9 +47,6 @@ Servidor cloud:
 ![im3](https://github.com/joaquinb25/proyecto_IV/blob/hito1/imagenes1/cloud%20img.png)
 
 
-Cloud Next 8 con las siguientes características:
-
-
 Uso de 1%:
 
 -Servidor dedicado: 119,99 euros/mes * 12 meses = 1439,88 euros/año. 
@@ -103,9 +100,10 @@ Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz
 **2.Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.**
 
 1.1
-Primero instalamos el paquete cpu-checker: sudo apt-get install cpu-checker Introducimos el comando kvm-ok y la respuesta es:
 
-root@joaquinballesteros:/home/joaquinballesteros# kvm-ok INFO: /dev/kvm exists KVM acceleration can be used root@joaquinballesteros:/home/joaquinballesterose#
+Primero instalamos el paquete cpu-checker: *sudo apt-get install cpu-checker* y despues introducimos el comando *kvm-ok* y la respuesta es:
+
+root@joaquinballesteros:/home/joaquinballesteros# kvm-ok INFO: /dev/kvm exists KVM acceleration can be used 
 
 Por tanto puedo usar la aceleración por hardware del procesador.
 
