@@ -37,7 +37,7 @@ similares (tamaño de disco duro equivalente a transferencia de disco duro)
 
 Servidor dedicado: 
 
-![im2](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/xl8%20foto.png)
+![im2](https://github.com/joaquinb25/proyecto_IV/blob/hito1/imagenes1/xl8%20foto.png)
 
 
 
