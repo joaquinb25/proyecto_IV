@@ -1,6 +1,6 @@
-Objetivos Joaquin Ballesteros Ortega
+##Objetivos Joaquin Ballesteros Ortega
 
-Sesión 1 (Semana del 22 de Septiembre de 2016)
+###**Sesión 1 (Semana del 22 de Septiembre de 2016)**
 
  Entender la metodología docente, de evaluación y de interacción de la asignatura.
 
@@ -14,7 +14,7 @@ Sesión 1 (Semana del 22 de Septiembre de 2016)
 
 Segunda semana del 29 de septiembre al 5 de octubre de 2016
 
-Objetivos de la semana:
+####Objetivos de la semana:
 
  Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 
@@ -28,7 +28,7 @@ Objetivos de la semana:
 
  Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
-Otros objetivos
+####Otros objetivos
 
  Al final de la clase, haber entregado el hito 0.
 
@@ -44,7 +44,7 @@ Otros objetivos
 
 [] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
 
-Objetivos Tema1
+**Objetivos Tema1**
 
  Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia.
 
