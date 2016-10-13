@@ -108,7 +108,7 @@ EJERCICIO 5
 
 Primero instalamos el paquete cpu-checker: sudo apt-get install cpu-checker Introducimos el comando kvm-ok y la respuesta es:
 
-root@joaquinballesteros:/home/joaquinballesteros# kvm-ok INFO: /dev/kvm exists KVM acceleration can be used root@carlillostole:/home/carlillostole#
+root@joaquinballesteros:/home/joaquinballesteros# kvm-ok INFO: /dev/kvm exists KVM acceleration can be used root@joaquinballesteros:/home/joaquinballesterose#
 
 Por tanto puedo usar la aceleración por hardware del procesador.
 
