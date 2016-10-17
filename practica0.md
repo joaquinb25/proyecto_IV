@@ -24,7 +24,7 @@ Para que aparezcan en los commits nuestro nombre y correo debemos poner las sigu
 
 git config --global user.name "joaquinb25" para el nombre
 
-git config --global user.email"joaquinballesteros @correo.ugr.es" para el correo.
+git config --global user.email"joaquin_25_95@hotmail.com" para el correo.
 
 ![SSH](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/ssh3.png)
 
