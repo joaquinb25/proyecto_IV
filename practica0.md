@@ -28,7 +28,7 @@ git config --global user.email"joaquin_25_95@hotmail.com" para el correo.
 
 ![SSH](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/ssh3.png)
 
-![SSH](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/correonombre.png)
+![SSH](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/IM1.png)
 
 **3.Creacion de hitos e issues**
 
@@ -37,7 +37,7 @@ git config --global user.email"joaquin_25_95@hotmail.com" para el correo.
 -Crearemos un issue para actualizar el archivo README.md
 
 
-![SSH](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/ssh4.png)
+![SSH](https://github.com/joaquinb25/proyecto_IV/blob/hito0/imagenes/IM2.png)
 
 
 
